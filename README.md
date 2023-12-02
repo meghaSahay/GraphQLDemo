@@ -1,4 +1,7 @@
 # GraphQLDemo
+
+This is a demo application with C# and graphql for the beginners.
+
 **What is GraphQL?**
 
 GraphQL is a query language for your APIs that can be used to get only the required information. It allows you to query for exactly the fields you want solving the problem of over fetching and under fetching.
@@ -37,4 +40,4 @@ Resolver: This is a function that connects a GraphQL query to its data source. R
 
 Type System: GraphQL uses a strong type system to define the capabilities of an API. All the types that are possible to send and receive from an API are defined in advance.
 
-This is a demo application with C# and graphql for the beginners.
+
