@@ -6,8 +6,8 @@ This is a demo application with C# and graphql for the beginners.
 
 GraphQL is a query language for your APIs that can be used to get only the required information. It allows you to query for exactly the fields you want solving the problem of over fetching and under fetching.
 
-**What problem it solves?
-**
+**What problem it solves?**
+
 The GraphQL solves the following problems.
 
 1. Over fetching and under fetching of data
